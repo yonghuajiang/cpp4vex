@@ -12,6 +12,7 @@ int main() {
     int num1 = 0;
     int num2 = 0;
     // Prompt the user for the first number
+    //<< (Stream Insertion Operator): This operator takes the data on its right and sends it to the stream on its left.
     cout << "Enter the first number: ";
     cin >> num1; // Read input from the user and store in num1
     // Prompt the user for the second number
